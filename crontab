@@ -1,0 +1,1 @@
+@reboot sleep 5 && python3 rpi_camera_surveillance_system.py
